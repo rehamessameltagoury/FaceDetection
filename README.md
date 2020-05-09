@@ -1,7 +1,7 @@
 # FaceDetection
 Face Detection App using python and Android.
 
-# Installation
+# Libararies
     *python 3.7
     * open CV
     * os 
